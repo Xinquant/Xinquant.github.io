@@ -22,3 +22,8 @@ Hefei, Anhui, P. R. of China, 230026
 Tel: +86 15056018397
 
 E-mail: [xzhang16@mail.ustc.edu.cn](mailto:xzhang16@mail.ustc.edu.cn)
+
+
+### About this page
+
+See [Xinquant](https://github.com/Xinquant/Xinquant.github.io) for detail.
