@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curriculum Vitae
+title: ***Curriculum Vitae***
 ---
 ### Education
 * B.S. in Optical Engineering, Zhejiang University, June 2016
@@ -30,9 +30,9 @@ title: Curriculum Vitae
 
 ### Colloquia and Seminars
 
-1.	“Giant Anisotropy of Spin Relaxation and Spin-valley Mixing in a Silicon Quantum Dot” (Oral), [Silicon Quantum Electronics Workshop](http://siqew2019.dipc.org/), San Sebastian, Spain, October 14. 2019. 
-2.	“Anisotropy of Single-Spin Relaxation and Spin-valley Mixing in Silicon Quantum Dots” (Poster), [The 22nd National Semiconductor Physics Conference](http://www.spc2019.org/), Hangzhou, China, July 9. 2019.
-3.	“A Two Channel Silicon Quantum Dot and an Experimental Setup for Spin Qubits” (Poster), [China-Japan International Workshop on Quantum Technologies](http://www.quantum.physics.sk/people/stano/talk_announcements/2018Hefei.pdf), Hefei, China, August 24. 2018.
-4.	“Charge Sensing and Controllable Coupling in a Si MOS Double Quantum Dot” (Poster), International Workshop on Recent Experimental Progress in Semiconductor Qubits, Hefei, China, September 13. 2017.
+1.	[“Giant Anisotropy of Spin Relaxation and Spin-valley Mixing in a Silicon Quantum Dot”](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Spain-16TO9-v15.pdf) (Oral), [Silicon Quantum Electronics Workshop](http://siqew2019.dipc.org/), San Sebastian, Spain, October 14. 2019. 
+2.	[“Anisotropy of Single-Spin Relaxation and Spin-valley Mixing in Silicon Quantum Dots”](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Poster_hangzhou.pdf) (Poster), [The 22nd National Semiconductor Physics Conference](http://www.spc2019.org/), Hangzhou, China, July 9. 2019.
+3.	[“A Two Channel Silicon Quantum Dot and an Experimental Setup for Spin Qubits”](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Poster_silicon%20MOS%20double%20quantum%20dot.pdf) (Poster), [China-Japan International Workshop on Quantum Technologies](http://www.quantum.physics.sk/people/stano/talk_announcements/2018Hefei.pdf), Hefei, China, August 24. 2018.
+4.	[“Charge Sensing and Controllable Coupling in a Si MOS Double Quantum Dot”](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Poster_silicon%20MOS%20double%20quantum%20dots_2017.pdf) (Poster), [International Workshop on Recent Experimental Progress in Semiconductor Qubits](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Handbook%202017Workshop%20_poster%20included.pdf), Hefei, China, September 13. 2017.
 
 [PostDoc_Xin_Zhang.pdf](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/PostDoc_Xin_Zhang.pdf)
