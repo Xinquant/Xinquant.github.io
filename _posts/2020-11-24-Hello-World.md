@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Curriculum Vitae
 ---
 ### Education
 * B.S. in Optical Engineering, Zhejiang University, June 2016
