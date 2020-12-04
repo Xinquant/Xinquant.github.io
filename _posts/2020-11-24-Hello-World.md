@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Welcome to Xin Zhang's CV!
 ---
 ### Education
 * B.S. in Optical Engineering, Zhejiang University, June 2016
