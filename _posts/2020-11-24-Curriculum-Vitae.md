@@ -3,6 +3,7 @@ layout: post
 title: Curriculum Vitae
 ---
 ### *Education*
+
 #### Ph.D. in Physics, University of Science and Technology of China, June 2021 (expected)
 * Courses: Calculation Physics, Advanced Quantum Optics
 #### M.S. in Physics, University of Science and Technology of China, June 2017
@@ -21,6 +22,7 @@ title: Curriculum Vitae
 
 ---
 ### *Projects*
+
 #### Supervisor: Dr. Hai-Ou Li and Prof. Guo-Ping Guo, University of Science and Technology of China, China
 * Electric dipole spin resonance in a silicon MOS quantum dot, January 2020 – Now
 *	Implementation of measurement circuit for single-shot readout of the electron spin state, May 2018 – December 2019
@@ -53,6 +55,7 @@ title: Curriculum Vitae
 
 ---
 ### *Skills*
+
 #### Semiconductor fabrication
 * Electron beam/ultra-violet lithography, electron beam evaporation, wet etching, annealing
 #### Computer programming
