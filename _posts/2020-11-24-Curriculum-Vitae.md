@@ -21,12 +21,12 @@ title: Curriculum Vitae
 *	Oxford Instruments Rising Star China Scholarship, 2020
 
 ---
-### *Projects*
+### *Projects* </td>
 
 #### Supervisor: Dr. Hai-Ou Li and Prof. Guo-Ping Guo, University of Science and Technology of China, China
 * Electric dipole spin resonance in a silicon MOS quantum dot, January 2020 – Now
 *	Implementation of measurement circuit for single-shot readout of the electron spin state, May 2018 – December 2019
-* Design and fabrication of a silicon MOS quantum dot and charge sensing, September 2016 – April 2018
+* Design and fabrication of a silicon MOS quantum dot and charge sensing, September 2016 – April 2018 
 #### Supervisor: Prof. Kewei Liu, Changchun Institute of Optics, Fine Mechanics and Physics, CAS, China
 *	ZnO based ultra-violet (UV) detector, March 2016 – May 2016
 #### Supervisor: Prof. Jon Camden, University of Notre Dame, the USA
