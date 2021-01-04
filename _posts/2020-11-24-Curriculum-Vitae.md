@@ -3,13 +3,12 @@ layout: post
 title: Curriculum Vitae
 ---
 ### *Education*
-
-#### Ph.D. in Physics, University of Science and Technology of China, June 2021 (expected)
-* Courses: Calculation Physics, Advanced Quantum Optics
-#### M.S. in Physics, University of Science and Technology of China, June 2017
-* Courses: Quantum Optics, Introduction to Quantum Information, Quantum Information Technology, Cryogenic Physics and Cryogenic Experimental Methods, Superconducting Electronics, Cryogenic Solid State Physics, Very Large Scale Integrated Circuit, Advance Quantum Mechanics
-#### B.S. in Optical Engineering, Zhejiang University, June 2016
-* Courses: Field and Wave Electromagnetics, Applied Optics, Physical Optics, Photoelectronics, Principle of Semiconductor Physics, Solid State Physics, C Programming Language, Microelectronic Devices and Circuits, Principle of Microcomputer, Analog/Digital Circuits
+* **Ph.D. in Physics, University of Science and Technology of China, June 2021 (expected)**
+  * Courses: Calculation Physics, Advanced Quantum Optics
+* **M.S. in Physics, University of Science and Technology of China, June 2017**
+  * Courses: Quantum Optics, Introduction to Quantum Information, Quantum Information Technology, Cryogenic Physics and Cryogenic Experimental Methods, Superconducting Electronics, Cryogenic Solid State Physics, Very Large Scale Integrated Circuit, Advance Quantum Mechanics
+* **B.S. in Optical Engineering, Zhejiang University, June 2016**
+  * Courses: Field and Wave Electromagnetics, Applied Optics, Physical Optics, Photoelectronics, Principle of Semiconductor Physics, Solid State Physics, C Programming Language, Microelectronic Devices and Circuits, Principle of Microcomputer, Analog/Digital Circuits
 
 ---
 ### *Honors*
@@ -22,18 +21,17 @@ title: Curriculum Vitae
 
 ---
 ### *Projects* 
-
-#### Supervisor: Dr. Hai-Ou Li and Prof. Guo-Ping Guo, University of Science and Technology of China, China
-* Electric dipole spin resonance in a silicon MOS quantum dot, January 2020 – Now
-* Implementation of measurement circuit for single-shot readout of the electron spin state, May 2018 – December 2019
-* Design and fabrication of a silicon MOS quantum dot and charge sensing, September 2016 – April 2018  
-#### Supervisor: Prof. Kewei Liu, Changchun Institute of Optics, Fine Mechanics and Physics, CAS, China
-* ZnO based ultra-violet (UV) detector, March 2016 – May 2016
-#### Supervisor: Prof. Jon Camden, University of Notre Dame, the USA
-* Surface-enhanced Raman spectroscopy, July 2015 –August 2015
-#### Supervisor: Dr. Qiang Li and Prof. Min Qiu, Zhejiang University, China
-* Synthesis of giant single crystalline Au microplates, December 2014 –May 2016
-* Simulation and experiment on plasmonic welding of silver nanowire junctions, May 2014 – June 2015
+* **Supervisor: Dr. Hai-Ou Li and Prof. Guo-Ping Guo, University of Science and Technology of China, China**
+  * Electric dipole spin resonance in a silicon MOS quantum dot, January 2020 – Now
+  * Implementation of measurement circuit for single-shot readout of the electron spin state, May 2018 – December 2019
+  * Design and fabrication of a silicon MOS quantum dot and charge sensing, September 2016 – April 2018  
+* **Supervisor: Prof. Kewei Liu, Changchun Institute of Optics, Fine Mechanics and Physics, CAS, China**
+  * ZnO based ultra-violet (UV) detector, March 2016 – May 2016
+* **Supervisor: Prof. Jon Camden, University of Notre Dame, the USA**
+  * Surface-enhanced Raman spectroscopy, July 2015 –August 2015
+* **Supervisor: Dr. Qiang Li and Prof. Min Qiu, Zhejiang University, China**
+  * Synthesis of giant single crystalline Au microplates, December 2014 –May 2016
+  * Simulation and experiment on plasmonic welding of silver nanowire junctions, May 2014 – June 2015
 
 ---
 ### *Publications*
@@ -55,18 +53,17 @@ title: Curriculum Vitae
 
 ---
 ### *Skills*
-
-#### Semiconductor fabrication
-* Electron beam/ultra-violet lithography, electron beam evaporation, wet etching, annealing
-#### Computer programming
-* MATLAB, Python, Mathematica
-#### Electrical measurement
-* Arbitrary waveform generator (AWG), vector signal generator, oscilloscope, frequency spectrometer, network analyzer, lock-in amplifier, dilution refrigerator 
-#### Software
-* Eline-plus (Raith), L-edit, SolidWorks, COMSOL Multiphysics, Origin, Adobe Illustrator, Adobe Photoshop
-#### Language
-* English: TOEFL 102/120
-* Mandarin: native speaker
+* **Semiconductor fabrication**
+  * Electron beam/ultra-violet lithography, electron beam evaporation, wet etching, annealing
+* **Computer programming**
+  * MATLAB, Python, Mathematica
+* **Electrical measurement**
+  * Arbitrary waveform generator (AWG), vector signal generator, oscilloscope, frequency spectrometer, network analyzer, lock-in amplifier, dilution refrigerator 
+* **Software**
+  * Eline-plus (Raith), L-edit, SolidWorks, COMSOL Multiphysics, Origin, Adobe Illustrator, Adobe Photoshop
+* **Language**
+  * English: TOEFL 102/120
+  * Mandarin: native speaker
 
 ---
 PDF version: [PostDoc_Xin_Zhang.pdf](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/CV_Xin_Zhang_0102.pdf)
