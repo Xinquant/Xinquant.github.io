@@ -9,6 +9,7 @@ title: Curriculum Vitae
 * Courses: Quantum Optics, Introduction to Quantum Information, Quantum Information Technology, Cryogenic Physics and Cryogenic Experimental Methods, Superconducting Electronics, Cryogenic Solid State Physics, Very Large Scale Integrated Circuit, Advance Quantum Mechanics
 #### B.S. in Optical Engineering, Zhejiang University, June 2016
 * Courses: Field and Wave Electromagnetics, Applied Optics, Physical Optics, Photoelectronics, Principle of Semiconductor Physics, Solid State Physics, C Programming Language, Microelectronic Devices and Circuits, Principle of Microcomputer, Analog/Digital Circuits
+
 ---
 ### *Honors*
 * First-Class Scholarship for Outstanding Students (top 3%), Zhejiang University, 2013
@@ -17,6 +18,7 @@ title: Curriculum Vitae
 * Outstanding Graduate of Zhejiang Province, 2016
 *	National Scholarship, 2020
 *	Oxford Instruments Rising Star China Scholarship, 2020
+
 ---
 ### *Projects*
 #### Supervisor: Dr. Hai-Ou Li and Prof. Guo-Ping Guo, University of Science and Technology of China, China
@@ -30,6 +32,7 @@ title: Curriculum Vitae
 #### Supervisor: Dr. Qiang Li and Prof. Min Qiu, Zhejiang University, China
 *	Synthesis of giant single crystalline Au microplates, December 2014 –May 2016
 * Simulation and experiment on plasmonic welding of silver nanowire junctions, May 2014 – June 2015
+
 ---
 ### *Publications*
 1. [Controlling Synthetic Spin-Orbit Coupling in a Silicon Quantum Dot using Magnetic Field Direction](https://arxiv.org/abs/2012.14636), **X. Zhang**, Y. Zhou, R. Z. Hu, R. L. Ma, M. Ni, K. Wang, G. Luo, G. Cao, G. L. Wang, P. Huang, X. Hu, H. W. Jiang, H. –O. Li, G. C. Guo and G. P. Guo., arXiv:2012.14636 (2020)
@@ -39,6 +42,7 @@ title: Curriculum Vitae
 5. [Improving Mobility of Silicon Metal-oxide–semiconductor Devices for Quantum Dots by High Vacuum Activation Annealing](https://iopscience.iop.org/article/10.1209/0295-5075/130/27001/meta), K. Wang, H.-O. Li, G. Luo, **X. Zhang**, F. M. Jing, R. Z. Hu, Y. Zhou, H. Liu, G. Luo. Wang, G. Cao, H. W. Jiang and G. P. Guo et al. EPL. 130, 27001 (2019)
 6. [Semiconductor Quantum Computation](https://academic.oup.com/nsr/article/6/1/32/5257863), **X. Zhang**, H.-O. Li, G. Cao, M. Xiao, G. C. Guo and G. P. Guo., National Science Review 6, 32 (2019).
 7. [Qubits Based on Semiconductor Quantum Dots](https://iopscience.iop.org/article/10.1088/1674-1056/27/2/020305/meta), **X. Zhang**, H.-O. Li and K. Wang, G. Cao, M. Xiao and G. P. Guo., Chin Phys B 27: 020305 (2018).
+
 ---
 ### *Colloquia and Seminars*
 1.	[“Giant Anisotropy of Spin Relaxation and Spin-Valley Mixing in a Silicon Quantum Dot”](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/PFUNT_zhang.pdf) (Oral), [Physics Five Universities the National Top](https://pfunt.nju.edu.cn/), Nanjing, China, December 19. 2020.
@@ -46,6 +50,7 @@ title: Curriculum Vitae
 2.	[“Anisotropy of Single-Spin Relaxation and Spin-Valley Mixing in Silicon Quantum Dots”](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Poster_hangzhou.pdf) (Poster), [The 22nd National Semiconductor Physics Conference](http://www.spc2019.org/), Hangzhou, China, July 9. 2019.
 3.	[“A Two Channel Silicon Quantum Dot and an Experimental Setup for Spin Qubits”](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Poster_silicon%20MOS%20double%20quantum%20dot.pdf) (Poster), [China-Japan International Workshop on Quantum Technologies](http://www.quantum.physics.sk/people/stano/talk_announcements/2018Hefei.pdf), Hefei, China, August 24. 2018.
 4.	[“Charge Sensing and Controllable Coupling in a Si MOS Double Quantum Dot”](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Poster_silicon%20MOS%20double%20quantum%20dots_2017.pdf) (Poster), [International Workshop on Recent Experimental Progress in Semiconductor Qubits](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/Handbook%202017Workshop%20_poster%20included.pdf), Hefei, China, September 13. 2017.
+
 ---
 ### *Skills*
 #### Semiconductor fabrication
@@ -59,5 +64,6 @@ title: Curriculum Vitae
 #### Language
 * English: TOEFL 102/120
 * Mandarin: native speaker
+
 ---
 PDF version: [PostDoc_Xin_Zhang.pdf](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/CV_Xin_Zhang_0102.pdf)
