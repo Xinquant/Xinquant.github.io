@@ -66,4 +66,4 @@ title: Curriculum Vitae
   * Mandarin: native speaker
 
 ---
-PDF version: [PostDoc_Xin_Zhang.pdf](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/CV_Xin_Zhang_0102.pdf)
+PDF version: [PostDoc_Xin_Zhang.pdf](https://github.com/Xinquant/Xinquant.github.io/raw/master/file_pdf/CV_Xin_Zhang_0104.pdf)
